@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>DGM - par joseph mie</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header style="color: blue; text-align: center;">
+        <img src="dgm-logo.png" alt="logo de la dgm" width="150">
+        <h1>DIRECTION GENERALE DE MIGRATION</h1>
+        <address>6,Avenue du haut-commandement<br>Gombe, KinshasaSite - RDC</address>
+        <p>Site Web officiel</p>
+    </header> <hr>
+    <main>
+        <Figure>
+        <a href="Roland-Kashwantale.webp" target="blank"><img src="rol_min.jpg" alt="image du DG"></a>
+            <figcaption> <strong>Roland Kasantuale</strong>, nouveau Directeur <br> Générale de la DGM - République Démocratique <br> 
+            du Cong</figcaption> </Figure>
+        <p>
+            Nommé Directeur Général de la Direction Générale de Migration (DGM), M. Roland Kasantuale <br>
+            incarne une vision de rigueur, de responsabilité et de modernisation de l'administration migratoire<br> 
+            en République Démocratique du Congo. <br>
+            Fort de son expérience dans la gestion publique, il œuvre au renforcement de la sécurité migratoire,<br>
+            à l'amélioration des services offerts aux citoyens et au respect des normes nationales <br>
+            et internationales en matière de migration. <br>
+            son leadership s'inscrit dans la dynamique de réforme des institutions publiques prônée par les autorités <br>
+            du pays, avec pour objectif une administration plus efficace, transparente et proche de la population.
+        </p>
+        <p>La Direction Générale de migration est une institution publique chargé de la gestion migratoire <br>
+            en République Démocratique du Congo.<a href="https://dgm.cd/public-posts/a-propos" target="_blank">Voir plus</a>
+        </p>
+        <h3>Procédure de demande de Visa</h3>
+        <ol>
+            <li>Remplir le formulaire de demande</li>
+            <li>Joindre les pièces requises</li>
+            <li>Payer les frais officiels</li>
+            <li>Déposer le dossier aupès de la DGM</li>
+            <li>Atendre la validation et le retrait du document</li>
+        </ol>
+    </main>
+    <hr>
+    <footer style="text-align: center;">
+        <p style="color: blue;">Pour toute demande de Visa ou passeport <br> visitez
+            <a href="https://WWW.dgm.cd/" target="blank" rel="noopener"> WWW.dgm.cd</a>
+            ou appelez le numero vert.
+        </p>
+        <p style="color: black;">
+        <em>copyright © </em>2026 <strong>Direction Générale de migration</strong>
+        </p>
+    </footer>
+</body>
+</html>
